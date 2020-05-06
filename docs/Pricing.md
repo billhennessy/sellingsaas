@@ -1,3 +1,4 @@
+
 # SaaS Pricing Made Easy
 
 The list price a customer expects to pay for our products should be predictable. There are four basic elements to price in a SaaS product like BIE:
@@ -11,7 +12,7 @@ The list price a customer expects to pay for our products should be predictable.
 
 When we keep pricing simple, we can create a reliable pricing calculator that does the math for us. Here is [a prototype of such a calculator](https://docs.google.com/spreadsheets/d/1Z-NK5SjKjzK-Z0cjlAxUEKvRQuVXfA1WTwwiK1jrP3k/edit?usp=sharing). 
 
-/saas-calculator.png
+![](images/saas-calculator.png)
 
 *NOTE: This is just a prototype, not an official pricing tool. I just made up the prices displayed here. The prototype is not intended replace our official pricing process, but give a demonstrate of how simple SaaS pricing could be.**
 

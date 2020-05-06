@@ -118,7 +118,7 @@ One reason is environment. In a custom world, we could simply buy or lease more 
 But in SaaS, everybody is in the same environment. Additionally, SaaS products are composed of various other SaaS components that have their own availability and response SLA standards. BIE cannot have higher availability limits than the lowest availability limits of its constituent parts. We cannot, for instance, promise availability levels higher than Contentful's.
 Typical SLAs cover channel (email, phone, chat), response times, and availability by major component (admin portal, member portal, etc.) And SLAs are priced as a percentage of the base plus add-ons. This is because the base and add-ons, not the number of participants, is what drives support costs. Here's an example SLA option sheet:
 
-/saas-slas.png
+![](images/saas-slas.png)
 
 We probably don't need to explain how a model like this reduces stress about SLAs. As an organization, though, we do need to realize that the SLA fees we collect might be given back in the case of SLA misses, which will happen. Therefore, **SLA fees should go fund R&D related to improving availability of the system (not features) and as a rainy day fund to pay SLA exceptions (which will happen to the best of systems).
 
